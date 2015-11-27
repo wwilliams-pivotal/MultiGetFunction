@@ -1,0 +1,7 @@
+
+compile with mvn clean package -DskipTests to create the jar
+
+cd into the grid directory
+execute . startall.sh  to start the cluster
+
+execute the MultiGetFunctionTests junit class
